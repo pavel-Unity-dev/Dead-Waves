@@ -6,3 +6,35 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
+# IDE / OS
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+
+# Unity temp / cache
+**/.utmp/
+**/*.utmp
+**/*.tmp
+**/*.log
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+ProfilerCaptures/
+
+# Packages / exports (обычно не храним в репо)
+*.unitypackage
