@@ -1,0 +1,721 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\games\\None\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemyrangeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyrangeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\pooledenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\pooledenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemyhp\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhp\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemymeleeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymeleeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\volume\\playersfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volume\\playersfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\volume\\enemysfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volume\\enemysfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\ui\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\shoop\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoop\\shopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\player\\hp\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\hp\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\gun\\weaponswitching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun\\weaponswitching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\gamemanager\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\gamemanager\\fasttrailpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\fasttrailpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\enemydeathreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\enemydeathreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\gamemanager\\currencymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\currencymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemyvisibleculling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyvisibleculling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\player\\hp\\playerhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\hp\\playerhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\player\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\player\\control\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\player\\control\\mobilelookinputmb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\mobilelookinputmb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\player\\control\\draggableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\draggableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\player\\control\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\effects\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|d:\\games\\none\\assets\\scripts\\player\\control\\controlseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\control\\controlseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\effects\\impactpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\impactpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemyhp\\enemyhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhp\\enemyhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\effects\\hitmarkerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\hitmarkerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\enemy\\enemyhp\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhp\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\assets\\scripts\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|D:\\games\\None\\Assets\\PlayerInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559E995-60F5-CDF4-6285-7D7CAB9EDB80}|Assembly-CSharp.csproj|solutionrelative:Assets\\PlayerInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games\\None\\Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games\\None\\Assets\\Scripts\\Player\\PlayerSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerSFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games\\None\\Assets\\Scripts\\UI\\CameraShake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\CameraShake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games\\None\\Assets\\Scripts\\UI\\DamageFlash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\DamageFlash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\games\\None\\Assets\\Scripts\\UI\\HitmarkerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\HitmarkerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerSFX.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Volume\\PlayerSFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volume\\PlayerSFX.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Volume\\PlayerSFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volume\\PlayerSFX.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:00:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyPool.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\EnemyPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\EnemyPool.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\EnemyPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\EnemyPool.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:21:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyMeleeAI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyMeleeAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMeleeAI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyMeleeAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMeleeAI.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwG4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:59:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHP.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHP.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHP.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:18:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PooledEnemy.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\PooledEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PooledEnemy.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\PooledEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\PooledEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:22:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\WaveManager.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\WaveManager.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAIwPwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:01:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyRangeAI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyRangeAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyRangeAI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyRangeAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyRangeAI.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAAAHYBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:59:13.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\PlayerManager.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:07:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySFX.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Volume\\EnemySFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volume\\EnemySFX.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Volume\\EnemySFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volume\\EnemySFX.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:09:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:44:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Volume.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\Volume.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Volume.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\Volume.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Volume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:28:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Shoop\\ShopUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shoop\\ShopUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Shoop\\ShopUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shoop\\ShopUI.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:20:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\HP\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HP\\PlayerHealth.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\HP\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HP\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:52:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeaponSwitching.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Gun\\WeaponSwitching.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun\\WeaponSwitching.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Gun\\WeaponSwitching.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun\\WeaponSwitching.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:27:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\PlayerStats.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:23:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FastTrailPool.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\FastTrailPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\FastTrailPool.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\FastTrailPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\FastTrailPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:23:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyDeathReporter.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\EnemyDeathReporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\EnemyDeathReporter.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\EnemyDeathReporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\EnemyDeathReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:02:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\CursorManager.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\CursorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:45:17.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CurrencyManager.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\CurrencyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\CurrencyManager.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\CurrencyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\CurrencyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:08:06.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Gun\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun\\Gun.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Gun\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun\\Gun.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAiwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:37:02.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyVisibleCulling.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyVisibleCulling.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyVisibleCulling.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyVisibleCulling.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyVisibleCulling.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:27:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\GameManager\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\GameOverManager.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\GameManager\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:33:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerHPUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\HP\\PlayerHPUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HP\\PlayerHPUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\HP\\PlayerHPUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HP\\PlayerHPUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:09:23.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\PlayerController.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:37:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\MouseLook.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\MouseLook.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:48:16.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MobileLookInputMB.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\MobileLookInputMB.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\MobileLookInputMB.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\MobileLookInputMB.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\MobileLookInputMB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:47:08.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DraggableUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\DraggableUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\DraggableUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\DraggableUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\DraggableUI.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:46:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\Joystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\Joystick.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\Joystick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\Joystick.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:58:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Effects\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\CameraShake.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Effects\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\CameraShake.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:58:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ControlsEditor.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\ControlsEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Control\\ControlsEditor.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\Control\\ControlsEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Control\\ControlsEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:47:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnemyHPUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHPUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHPUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHPUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHP\\EnemyHPUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:53:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShaderBuildPreprocessor.cs",
+              "DocumentMoniker": "D:\\games\\None\\Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs",
+              "ToolTip": "D:\\games\\None\\Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@d10049dfa479\\Editor\\ShaderBuildPreprocessor.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAQwLwBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:59:36.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ImpactPool.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Effects\\ImpactPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\ImpactPool.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Effects\\ImpactPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\ImpactPool.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:10:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HitmarkerUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Effects\\HitmarkerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\HitmarkerUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Effects\\HitmarkerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\HitmarkerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:07:11.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CameraShake.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CameraShake.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:52:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHP\\Billboard.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Enemy\\EnemyHP\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHP\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:13:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DamageFlash.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\DamageFlash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DamageFlash.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\DamageFlash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DamageFlash.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:48:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HitmarkerUI.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\HitmarkerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HitmarkerUI.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\HitmarkerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HitmarkerUI.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:00:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlayerSFX.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\Player\\PlayerSFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerSFX.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\Player\\PlayerSFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerSFX.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:50:42.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\Scripts\\UI\\Pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Pause.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\Scripts\\UI\\Pause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Pause.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T22:15:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PlayerInputController.cs",
+              "DocumentMoniker": "D:\\games\\None\\Assets\\PlayerInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInputController.cs",
+              "ToolTip": "D:\\games\\None\\Assets\\PlayerInputController.cs",
+              "RelativeToolTip": "Assets\\PlayerInputController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:42:41.588Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
