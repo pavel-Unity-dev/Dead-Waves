@@ -1,13 +1,21 @@
-# Dead Waves
+# Unity FPS Wave Shooter
 
-A mobile FPS wave-based shooter built in Unity.
+Mobile FPS game with wave-based enemy system built in Unity.
 
-## 🎮 About the Project
+## Features
+- Wave spawning system
+- Melee & ranged enemies (NavMesh)
+- Shooting + hit effects
+- Object pooling
+- UI (HP, ammo, wave)
+- Mobile-friendly settings
 
-Dead Waves is a first-person shooter where the player survives against waves of enemies.  
-The game features both melee and ranged enemies, wave progression system, and upgrade mechanics.
+## Platform
+Android
 
-## 🔧 Features
+## Controls
+- Touch controls (planned) / Keyboard (dev)
+
 
 - Wave-based enemy spawning system
 - Melee and ranged enemy AI
