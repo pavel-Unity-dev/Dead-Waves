@@ -16,7 +16,7 @@ Android
 ## Controls
 - Touch controls (planned) / Keyboard (dev)
 
-<<<<<<< HEAD
+
 - Wave-based enemy spawning system
 - Melee and ranged enemy AI
 - Player shooting system with recoil and hit detection
@@ -48,8 +48,3 @@ Android
 ---
 
 Developed by Pavel
-Simulation on second laptop complete
-=======
-## Current status
-In development
->>>>>>> parent of 56dc897 (Update README.md)

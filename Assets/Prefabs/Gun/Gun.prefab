@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 5791931115392225945}
   - component: {fileID: 2553831122750931526}
   - component: {fileID: 591600728894401840}
-  - component: {fileID: 2092622365501377075}
   m_Layer: 0
   m_Name: Gun
   m_TagString: Untagged
@@ -77,24 +76,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0ac12c83e5bf9e47a4f5c93cec1e6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 5
-  range: 100
-  impactForce: 60
-  fireRate: 5
-  maxAmmo: 100
-  reloadTime: 2
-  fpsCam: {fileID: 0}
-  flash: {fileID: 7631344105356273778}
-  impactEffect: {fileID: 3658776314206031863, guid: af7acd4b1a9ef00459829167c8dde117, type: 3}
-  animator: {fileID: 0}
-  bulletTrailPrefab: {fileID: 2179508181786119368, guid: c89e0f3246f603c4eb3039d31f136279, type: 3}
-  muzzlePoint: {fileID: 2220785559179977116}
-  sfx: {fileID: 2092622365501377075}
-  shotClip: {fileID: 8300000, guid: ee85e8cd6a5e8b2479f5e257d2d4db7f, type: 3}
-  hitClip: {fileID: 8300000, guid: 1ccf7864d380dc943ae371ae52ed716e, type: 3}
-  reloadClip: {fileID: 8300000, guid: ac048fb0a6fa6ba4396dd91679e87a19, type: 3}
-  trailSpeed: 30
-  damageMultiplier: 1
+  _damage: 10
+  _damageMultiplier: 1
+  _range: 100
+  _fireRate: 10
+  _maxAmmo: 10
+  _reloadTime: 1.5
+  _mouseLook: {fileID: 0}
+  _recoilKick: 1.5
+  _fpsCam: {fileID: 0}
+  _muzzleFlash: {fileID: 0}
+  _animator: {fileID: 0}
+  _muzzlePoint: {fileID: 0}
+  _trailSpeed: 30
 --- !u!82 &591600728894401840
 AudioSource:
   m_ObjectHideFlags: 0
@@ -192,19 +186,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &2092622365501377075
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3617588406565771059}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cac8e3942723c34da8fab8ba285b1f6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SFXPlayer
-  source: {fileID: 591600728894401840}
 --- !u!1 &5866052815665651369
 GameObject:
   m_ObjectHideFlags: 0
@@ -296,11 +277,6 @@ PrefabInstance:
 --- !u!4 &7537367940054790164 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8505170342250279090, guid: f28f753dd26b92d4a95b2590c3d58d98, type: 3}
-  m_PrefabInstance: {fileID: 2202950066243748006}
-  m_PrefabAsset: {fileID: 0}
---- !u!198 &7631344105356273778 stripped
-ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 8607936269402106068, guid: f28f753dd26b92d4a95b2590c3d58d98, type: 3}
   m_PrefabInstance: {fileID: 2202950066243748006}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4321472707663654472
