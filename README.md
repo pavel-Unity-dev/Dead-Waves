@@ -40,4 +40,3 @@ The game features both melee and ranged enemies, wave progression system, and up
 ---
 
 Developed by Pavel
-Simulation on second laptop complete
