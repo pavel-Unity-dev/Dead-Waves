@@ -1,5 +1,7 @@
 # Unity FPS Wave Shooter
 
+https://pavel-unity-dev.itch.io/dead-waves
+
 Mobile FPS game with wave-based enemy system built in Unity.
 
 ## Features
